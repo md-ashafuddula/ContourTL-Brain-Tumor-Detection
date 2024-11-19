@@ -15,13 +15,17 @@ Brain tumors are critical neurological ailments caused by uncontrolled cell grow
 
 The detailed proposed architecture for eﬃcient brain tumor detection. This begins with preprocessing the input MRI images andthen employing transfer learning with a VGG-16 pretrained model for robust feature gathering and eﬀective tumor identiﬁcation. <img width="610" alt="image" src="https://github.com/user-attachments/assets/b7be5649-1ec8-4cd7-b934-a0aea47b9cab">
 
-Process of brain contour cropping, showcasing image preprocessing techniques and enhancements to eﬀective contour detectionand cropping. <img width="673" alt="image" src="https://github.com/user-attachments/assets/8e0d0881-5117-4c1d-b505-1a1d0e4d406f">
+Process of brain contour cropping, showcasing image preprocessing techniques and enhancements to eﬀective contour detectionand cropping. 
+<img width="673" alt="image" src="https://github.com/user-attachments/assets/8e0d0881-5117-4c1d-b505-1a1d0e4d406f">
 
 <img width="350" alt="image" src="https://github.com/user-attachments/assets/075fc479-8eb5-42ec-b448-04c1837693cc">
 
-Algorithm 1: Image segmentation threshold point. <img width="340" alt="image" src="https://github.com/user-attachments/assets/4cca3b29-b962-4606-8aa6-db92a62dd601">
+**Algorithm 1:** Image segmentation threshold point. 
+<img width="340" alt="image" src="https://github.com/user-attachments/assets/4cca3b29-b962-4606-8aa6-db92a62dd601">
 
-Transfer Learning model. <img width="683" alt="image" src="https://github.com/user-attachments/assets/9b6f964b-64fd-40ad-8675-a4fffeac8713">
+**Transfer Learning model** 
+
+<img width="683" alt="image" src="https://github.com/user-attachments/assets/9b6f964b-64fd-40ad-8675-a4fffeac8713">
 
 ## Dataset
 
