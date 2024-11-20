@@ -31,8 +31,8 @@ Process of brain contour cropping, showcasing image preprocessing techniques and
 
 <img width="685" alt="image" src="https://github.com/user-attachments/assets/f7e4f403-54b7-4ef6-8a0f-538a6cc4d176">
 
-1. Dataset-1 (Brain MRI Images for Brain Tumor Detection} Version 1, 2019)[https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection]
-2. Dataset-2, (Br35H: brain tumor detection 2020 version 5, 2020)[https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection]
+1. Dataset-1 [Brain MRI Images for Brain Tumor Detection, Version 1, 2019](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection)
+2. Dataset-2, [Br35H: brain tumor detection 2020 version 5, 2020](https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection)
 
 ## Result
 
